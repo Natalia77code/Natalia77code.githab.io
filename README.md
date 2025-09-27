@@ -2,8 +2,8 @@
 
 ## Сайт-визитка
 
-[Посмотреть](https://natalia77code.github.io/){:target="\_blank"}
+[Посмотреть](https://natalia77code.github.io/)
 
 ## Контакты
 
-[Мой TG](https://t.me/natalia_marka){:target="\_blank"}
+[Мой TG](https://t.me/natalia_marka)
