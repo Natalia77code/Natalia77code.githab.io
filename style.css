@@ -1,0 +1,22 @@
+html body {
+  margin: 0;
+  padding: 0;
+}
+.div-block {
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  color: aliceblue;
+}
+.about {
+  background-color: #c6c6c6;
+  background-image: url("/img/bg1.jpg");
+}
+.skills {
+  background-image: url("/img/bg2.jpg");
+}
+.contacts {
+  background-color: #c6c6c6;
+  background-image: url("/img/bg3.jpg");
+}
