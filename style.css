@@ -3,6 +3,7 @@ html body {
   padding: 0;
 }
 .div-block {
+  padding: 30px;
   height: 100vh;
   background-size: cover;
   background-repeat: no-repeat;
