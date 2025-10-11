@@ -1,10 +1,15 @@
-html body {
+body {
   margin: 0;
   padding: 0;
 }
+main {
+  margin-top: 56px;
+  margin-bottom: 60px;
+}
 .div-block {
   padding: 30px;
-  height: 100vh;
+  min-height: calc(100vh - 116px);
+
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -20,4 +25,6 @@ html body {
 .contacts {
   background-color: #c6c6c6;
   background-image: url("/img/bg3.jpg");
+}
+.container-footer {
 }

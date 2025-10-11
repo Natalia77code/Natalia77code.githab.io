@@ -9,3 +9,6 @@ setInterval(() => {
     radius = 0;
   }
 }, 100);
+
+  const now = new Date(); const currentYear = now.getFullYear();
+  document.getElementById('current-year').textContent = currentYear;
